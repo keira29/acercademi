@@ -1,0 +1,50 @@
+header{
+    background-color: #ffe4ea;
+    text-align: center;
+}
+table{
+    width: 1500px;
+}
+th{
+    border: 1px #70001f solid;background-color: #ffadb3;
+}
+h2{
+border: 3px #a93e4a solid;
+
+}
+.datos{
+    display: inline-block;
+    width: 30%;
+    background-color: #cf6e75;
+    padding-left: 20px;
+    padding-top:10px ;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    margin: auto;
+}
+main{
+    margin: 60px;
+}
+body{
+    background-image: url("https://i.pinimg.com/736x/6c/78/c3/6c78c38e2da80a94d236bffc7309ad6e.jpg")
+}
+h1{
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.t{
+    display: inline-block;
+    width: 590px;
+    margin: 40px;
+    margin-bottom: 20px;
+}
+.ET{
+    display: inline-block;
+}
+.p1{
+    display: inline-block;
+}
+.m{
+    display: inline-block;
+    margin: 70px;
+}
